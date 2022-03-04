@@ -1,5 +1,5 @@
 # Latex Resume with Github Actions
 
-This project uses latex to create a PDF of my resume in release pages.
+This project uses latex to create a PDF of my resume in the release pages.
 
-Check the release pages for the latest and updated curriculum vitae for Alan Luis Yoshida de Oliveira.
+Check the [release pages](https://github.com/alanyoshida/resume/releases) for the latest and updated [curriculum](https://github.com/alanyoshida/resume/releases) vitae for Alan Luis Yoshida de Oliveira.
